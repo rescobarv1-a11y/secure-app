@@ -1,29 +1,18 @@
 {
   "name": "secure-app",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-"scripts": {
-  "start": "node src/app.js"
-},
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "start": "node app.js"
-},
+  "description": "Aplicación de prueba segura",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rescobarv1-a11y/secure-app.git"
+    "url": "https://github.com/rebeca/secure-app.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rescobarv1-a11y/secure-app/issues"
-  },
-  "homepage": "https://github.com/rescobarv1-a11y/secure-app#readme",
+  "author": "Rebeca Escobar",
+  "license": "MIT",
   "dependencies": {
-    "dotenv": "^17.2.3",
-    "express": "^5.1.0"
+    "express": "^4.18.2"
   }
 }
