@@ -9,6 +9,19 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "start": "node app.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rescobarv1-a11y/secure-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rescobarv1-a11y/secure-app/issues"
+  },
+  "homepage": "https://github.com/rescobarv1-a11y/secure-app#readme",
   "dependencies": {
     "dotenv": "^17.2.3",
     "express": "^5.1.0"
